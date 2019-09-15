@@ -1,4 +1,4 @@
 # EdgeDetect-OpenCV
-Edge Detect Using OpenCV 
+Edge Detection Using OpenCV 
 
 User-interface uses MFC. 
